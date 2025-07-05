@@ -1,0 +1,110 @@
+# depslib dependency file v1.0
+1749216069 source:c:\users\lavinia cozma\desktop\poo-proiect\carte de bucate\main.cpp
+	<iostream>
+	<cstring>
+	"DesertCopt.h"
+	"DesertRece.h"
+	"Vegetarian.h"
+	"CuCarne.h"
+	"FelPrincipal.h"
+	"Exceptie.h"
+
+1749213871 source:c:\users\lavinia cozma\desktop\poo-proiect\carte de bucate\src\exceptie.cpp
+	"Exceptie.h"
+	<iostream>
+	<cstring>
+
+1746776209 c:\users\lavinia cozma\desktop\poo-proiect\carte de bucate\include\exceptie.h
+	<iostream>
+	<cstring>
+
+1749214319 source:c:\users\lavinia cozma\desktop\poo-proiect\carte de bucate\src\reteta.cpp
+	"Reteta.h"
+	"Exceptie.h"
+	<iostream>
+	<fstream>
+	<cstring>
+
+1749213871 c:\users\lavinia cozma\desktop\poo-proiect\carte de bucate\include\reteta.h
+	"Data.h"
+	"Exceptie.h"
+	<iostream>
+	<fstream>
+	<cstring>
+
+1749213871 c:\users\lavinia cozma\desktop\poo-proiect\carte de bucate\include\desert.h
+	"Reteta.h"
+	<iostream>
+	<fstream>
+	<cstring>
+
+1749213871 source:c:\users\lavinia cozma\desktop\poo-proiect\carte de bucate\src\desert.cpp
+	"Desert.h"
+	<iostream>
+	<fstream>
+	<cstring>
+
+1749213871 source:c:\users\lavinia cozma\desktop\poo-proiect\carte de bucate\src\felprincipal.cpp
+	"FelPrincipal.h"
+	<iostream>
+	<fstream>
+	<cstring>
+
+1749213871 c:\users\lavinia cozma\desktop\poo-proiect\carte de bucate\include\felprincipal.h
+	"Reteta.h"
+	<iostream>
+	<fstream>
+	<cstring>
+
+1749213871 source:c:\users\lavinia cozma\desktop\poo-proiect\carte de bucate\src\cucarne.cpp
+	"CuCarne.h"
+	<iostream>
+	<fstream>
+	<cstring>
+
+1749213871 c:\users\lavinia cozma\desktop\poo-proiect\carte de bucate\include\cucarne.h
+	"FelPrincipal.h"
+	<iostream>
+	<fstream>
+	<cstring>
+
+1749213871 c:\users\lavinia cozma\desktop\poo-proiect\carte de bucate\include\data.h
+	<iostream>
+	"Exceptie.h"
+
+1749213871 source:c:\users\lavinia cozma\desktop\poo-proiect\carte de bucate\src\desertcopt.cpp
+	"DesertCopt.h"
+	<iostream>
+	<fstream>
+	<cstring>
+
+1749213871 c:\users\lavinia cozma\desktop\poo-proiect\carte de bucate\include\desertcopt.h
+	"Desert.h"
+	<iostream>
+	<fstream>
+	<cstring>
+
+1749216069 source:c:\users\lavinia cozma\desktop\poo-proiect\carte de bucate\src\desertrece.cpp
+	"DesertRece.h"
+	<iostream>
+	<fstream>
+	<cstring>
+
+1749213871 c:\users\lavinia cozma\desktop\poo-proiect\carte de bucate\include\desertrece.h
+	"Desert.h"
+	<iostream>
+	<fstream>
+	<cstring>
+
+1749213871 source:c:\users\lavinia cozma\desktop\poo-proiect\carte de bucate\src\vegetarian.cpp
+	"Vegetarian.h"
+	<iostream>
+	<fstream>
+	<cstring>
+
+1749210172 c:\users\lavinia cozma\desktop\poo-proiect\carte de bucate\include\vegetarian.h
+	"FelPrincipal.h"
+	<iostream>
+	<fstream>
+	<cstring>
+

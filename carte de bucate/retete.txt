@@ -1,0 +1,6 @@
+Cheesecake,"Branza,zahar,oua",Se coace la cuptor,480,1/6/2025,DESERT_COPT
+Tiramisu,"Mascarpone,cafea,piscoturi",Se raceste in frigider,520,2/6/2025,DESERT_RECE
+Sarmale,"Carne,varza,orez",Se fierb,650,3/6/2025,CU_CARNE
+Ciorba de legume,"Cartofi,morcovi,ceapa",Se fierb toate ingredientele,300,4/6/2025,VEGETARIAN
+Paste Carbonara,"Paste,oua,branza",Se amesteca si se servesc,580,5/6/2025,FEL_PRINCIPAL
+Clatite,"Faina,oua,lapte,zahar",Se prajesc pe ambele parti,410,6/6/2025,DESERT_COPT
